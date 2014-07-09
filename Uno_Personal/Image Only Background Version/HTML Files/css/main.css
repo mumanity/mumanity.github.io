@@ -469,7 +469,10 @@ h5 {
     background-color: #0875bd ;
 }
 .centered { text-align: center !important; }
-.knob { color: rgba(255,255,255,0.4) !important; }
+.knob {
+    color: rgba(255,255,255,0.4) !important;
+    display: none;
+}
 .button-box {
 	margin: 0 auto;
 	display: block;
